@@ -2,7 +2,7 @@
 # encoding=utf-8
 """
 Time: 2018.03.21
-Author: huiliu
+Author: Harry.Liu
 Description: 使用pyhanlp进行分词与词性识别 python3环境下
 Usage: crf特征生成 将segword映射到已标注的时间实体的BIO上
 """
